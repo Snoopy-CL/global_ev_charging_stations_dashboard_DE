@@ -1,0 +1,64 @@
+﻿brand,model,origin_country,vehicle_type,powertrain,release_year,market_regions
+Tesla,Model S,United States,Sedan,BEV,2012,US/EU/UK/ME
+Tesla,Model 3,United States,Sedan,BEV,2017,US/EU/UK/ME/CN
+Tesla,Model X,United States,SUV,BEV,2015,US/EU/UK/ME
+Tesla,Model Y,United States,SUV,BEV,2020,US/EU/UK/ME/CN
+Tesla,Cybertruck,United States,Pickup,BEV,2023,US
+Nissan,Leaf,Japan,Hatchback,BEV,2010,EU/UK/US/JP
+Chevrolet,Bolt EV,United States,Hatchback,BEV,2016,US/CA
+Chevrolet,Bolt EUV,United States,Crossover,BEV,2021,US/CA
+Ford,Mustang Mach-E,United States,SUV,BEV,2020,US/EU/UK/ME
+Ford,F-150 Lightning,United States,Pickup,BEV,2022,US/CA
+Volkswagen,ID.3,Germany,Hatchback,BEV,2020,EU/UK
+Volkswagen,ID.4,Germany,SUV,BEV,2020,US/EU/UK/CN
+Volkswagen,ID. Buzz,Germany,Van,BEV,2022,EU/UK/US
+Skoda,Enyaq iV,Czech Republic,SUV,BEV,2020,EU/UK
+Audi,Q4 e-tron,Germany,SUV,BEV,2021,EU/UK/US
+Porsche,Taycan,Germany,Sedan/Wagon,BEV,2019,EU/UK/US/ME/CN
+Cupra,Born,Spain,Hatchback,BEV,2021,EU/UK
+Hyundai,Kona Electric,South Korea,SUV,BEV,2018,EU/UK/US/ME
+Hyundai,IONIQ 5,South Korea,Crossover,BEV,2021,EU/UK/US/ME
+Hyundai,IONIQ 6,South Korea,Sedan,BEV,2022,EU/UK/US/ME
+Kia,EV6,South Korea,Crossover,BEV,2021,EU/UK/US/ME
+Kia,EV9,South Korea,SUV,BEV,2023,EU/UK/US/ME
+Genesis,GV60,South Korea,Crossover,BEV,2022,EU/UK/US/ME
+BMW,i4,Germany,Sedan,BEV,2021,EU/UK/US
+BMW,iX,Germany,SUV,BEV,2021,EU/UK/US
+BMW,i5,Germany,Sedan,BEV,2023,EU/UK/US
+Mercedes-Benz,EQA,Germany,SUV,BEV,2021,EU/UK
+Mercedes-Benz,EQB,Germany,SUV,BEV,2021,EU/UK/US
+Mercedes-Benz,EQE,Germany,Sedan/SUV,BEV,2022,EU/UK/US
+Mercedes-Benz,EQS,Germany,Sedan/SUV,BEV,2021,EU/UK/US/ME
+Volvo,XC40 Recharge,Sweden,SUV,BEV,2020,EU/UK/US
+Volvo,C40 Recharge,Sweden,Crossover,BEV,2021,EU/UK/US
+Volvo,EX30,Sweden,SUV,BEV,2023,EU/UK/ME
+Volvo,EX90,Sweden,SUV,BEV,2024,EU/US
+Polestar,2,Sweden / China,Liftback,BEV,2019,EU/UK/US
+Polestar,3,Sweden / China,SUV,BEV,2023,EU/US/UK
+Peugeot,e-208,France,Hatchback,BEV,2019,EU/UK
+Peugeot,e-2008,France,SUV,BEV,2020,EU/UK
+Opel,Corsa-e,Germany,Hatchback,BEV,2020,EU/UK
+Citroën,ë-C4,France,Crossover,BEV,2020,EU/UK
+Fiat,500e,Italy,Hatchback,BEV,2020,EU/US
+Renault,Megane E-Tech Electric,France,Hatchback,BEV,2022,EU/UK
+Dacia,Spring,Romania / China,City car,BEV,2021,EU/UK
+Toyota,bZ4X,Japan,SUV,BEV,2022,EU/UK/US/JP
+Subaru,Solterra,Japan,SUV,BEV,2022,EU/UK/US/JP
+Honda,e,Japan,City car,BEV,2019,EU/JP
+Honda,e:Ny1,Japan,SUV,BEV,2023,EU/UK
+Mazda,MX-30,Japan,Crossover,BEV,2020,EU/US
+Jaguar,I-Pace,United Kingdom,SUV,BEV,2018,EU/UK/US
+Lucid,Air,United States,Sedan,BEV,2021,US/EU/ME
+Lucid,Gravity,United States,SUV,BEV,2025,US
+Rivian,R1T,United States,Pickup,BEV,2021,US/CA
+Rivian,R1S,United States,SUV,BEV,2022,US/CA
+BYD,Dolphin,China,Hatchback,BEV,2021,EU/ME/LA/CN
+BYD,Seal,China,Sedan,BEV,2022,EU/ME/CN
+BYD,Han,China,Sedan,BEV,2020,CN/ME/EU
+BYD,Tang,China,SUV,BEV,2018,CN/EU
+NIO,ET5,China,Sedan,BEV,2022,CN/EU
+NIO,ET7,China,Sedan,BEV,2021,CN/EU
+NIO,ES6,China,SUV,BEV,2019,CN/EU
+XPeng,P7,China,Sedan,BEV,2019,CN/EU
+XPeng,G9,China,SUV,BEV,2022,CN/EU
+Smart,#1,China / Germany,SUV,BEV,2022,EU/UK/CN
