@@ -43,4 +43,4 @@ The Power BI dashboard visualizes processed data, enabling users to explore:
 "gold_layer_output_views" ------------------------> Contains final outputs for both dimensional and fact views.\
 "sql_scripts_bronze_silver_gold_layers" -----------> Contains all SQL Server scripts made for bronze, silver, and gold layers.\
 "ev_charging_stations.pbix" -----------------------> Power BI file for dashboard.\
-"ev_charging_stations_dashboard_image.pdf" ----> PDF of dashboard. Quick image to get a view of the dashboard.
+"ev_charging_stations_dashboard_image.pdf" ---> PDF of dashboard. Quick image to get a view of the dashboard.
