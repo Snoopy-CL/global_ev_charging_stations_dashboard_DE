@@ -8,7 +8,7 @@ Raw data from Kaggle’s Global EV Charging Stations dataset is processed throug
 The project transforms raw, large-scale EV charging data into clean, analytics-ready datasets, enabling insights into infrastructure distribution and trends.
 
 ## Tech Stack
-**SQL Server**: ETL pipeline, data transformation, schema modeling.
+**SQL Server**: ETL pipeline, data transformation, schema modeling.\
 **Power BI**: Interactive dashboards with maps, tables, and Q & A functionality.
 
 ## ETL Architecture
